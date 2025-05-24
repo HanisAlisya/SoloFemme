@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063113828693",
+    "project_id": "solofemmeapp",
+    "storage_bucket": "solofemmeapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063113828693:android:5dac306b49a0bab73ea7dc",
+        "android_client_info": {
+          "package_name": "com.example.solofemmeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkX0j2yUTd2yZFMapMDTFAAtvRuGlRE3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
